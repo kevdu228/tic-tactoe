@@ -1,1 +1,1 @@
-# tic-tactoe
+# tic-tac-toe game in console
